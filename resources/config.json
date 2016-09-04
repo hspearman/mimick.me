@@ -1,0 +1,6 @@
+{
+  "username": "spez",
+  "token_group_size": 3,
+  "min_mimicked_text_length": 25,
+  "max_mimicked_text_length": 35
+}
